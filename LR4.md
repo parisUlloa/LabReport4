@@ -92,5 +92,14 @@ STEP 5: Run the tests, demonstrating that they succeed
 STEP 6: Commit and push the resulting change to your Github account
 ---
 
->
+> Once I have checked my tests are as I want them I will now commit and save my progress
+> First I will type `git add ListExamples.jav` 
+> 
+> ![Image](add.png)
+> 
+> Now I will type `git commit -m "updated"
+> 
+> ![Image](commit.png)
+> 
+> And after type `git push origin main` which have all tests running and saving my progress
 
